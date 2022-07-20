@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/React-Form-With-Local-Storage/static/css/main.9bf206c5.css",
+    "main.js": "/React-Form-With-Local-Storage/static/js/main.f7125de3.js",
+    "static/js/787.330f294f.chunk.js": "/React-Form-With-Local-Storage/static/js/787.330f294f.chunk.js",
+    "index.html": "/React-Form-With-Local-Storage/index.html",
+    "main.9bf206c5.css.map": "/React-Form-With-Local-Storage/static/css/main.9bf206c5.css.map",
+    "main.f7125de3.js.map": "/React-Form-With-Local-Storage/static/js/main.f7125de3.js.map",
+    "787.330f294f.chunk.js.map": "/React-Form-With-Local-Storage/static/js/787.330f294f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9bf206c5.css",
+    "static/js/main.f7125de3.js"
+  ]
+}
