@@ -1,0 +1,96 @@
+.container{
+	background: #2d3e3f;
+	width: 480px;
+	/* height: 520px; */
+	position: absolute;
+	top:45%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	margin: auto;
+  	padding: 40px 50px 40px 50px;
+	border-radius: 20px;
+}
+
+
+.fl{
+	float: left;
+  width: 110px;
+  line-height: 35px;
+}
+
+.fontLabel{
+  color: white;
+}
+
+.registrationFormHeading{
+	text-align: center;
+    color: white;
+	margin-bottom: 40px;
+}
+
+
+.box{
+	height: 35px;
+	margin-top: 20px;
+	font-family: verdana;
+	font-size: 12px;
+}
+
+.textBox{
+	height: 35px;
+	width: 210px;
+	border: none;
+  padding-left: 20px;
+}
+
+.new{
+  float: left;
+}
+
+.iconBox{
+	height: 35px;
+	width: 40px;
+	line-height: 38px;
+	text-align: center;
+  background: #ff6600;
+}
+
+.radio{
+	color: white;
+	background: #2d3e3f;
+	line-height: 38px;
+}
+
+.terms{
+	line-height: 35px;
+	text-align: center;
+	background: #2d3e3f;
+	color: white;
+}
+
+.submit-btn-box{
+	text-align: center;
+}
+.submit{
+	border: none;
+	color: white;
+	width: 150px;
+	height: 35px;
+	background: #ff6600;
+	text-transform: uppercase;
+  cursor: pointer;
+}
+
+.login-para{
+	text-align: center;
+	color: white;
+	font-size: 14px;
+}
+.login-para>a{
+	font-weight: 700;
+	color: white;
+	cursor: pointer;
+}
+.login-para>a:hover{
+	text-decoration: underline !important;
+}
